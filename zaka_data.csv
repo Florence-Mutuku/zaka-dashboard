@@ -1,0 +1,9 @@
+zaka_number,name,payment_method,amount,timestamp,mpesa_code
+ZAKA001,John Mwangi,Mpesa,500,2025-05-30 09:32,
+ZAKA002,Grace Njeri,Cash,300,2025-05-30 10:15,
+ZAKA003,Daniel Otieno,Mpesa,750,2025-05-30 11:05,
+ZAKA004,Susan Wambui,Cash,1000,2025-05-30 12:22,
+ZAKA005,Peter Kariuki,Mpesa,250,2025-05-30 13:55,
+ZAKA006,Lucy Achieng,Cash,400,2025-05-30 14:40,
+ZAKA10,ANN MUTIO,Cash,900,2025-05-31 18:21,
+ZAKA10,ANN MUTIO,Cash,900,2025-05-31 18:30,
