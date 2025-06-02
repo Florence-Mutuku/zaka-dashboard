@@ -82,7 +82,7 @@ pyperclip==1.9.0
 pyshp==2.3.1
 python-box==7.3.2
 python-dateutil==2.9.0.post0
-pytz==2025.
+pytz==2025.1
 pyzmq==26.2.1
 ratelim==0.1.6
 referencing==0.36.2
